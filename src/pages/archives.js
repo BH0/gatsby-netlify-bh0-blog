@@ -50,6 +50,6 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
 
 export default ArchivesPage
