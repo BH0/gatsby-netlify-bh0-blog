@@ -6,10 +6,6 @@ import Navbar from '../components/navbar';
 const IndexPage = ({data}) => (
   <div className="mobile articles-container"> 
       <h2 className="sub-title">Recent</h2> 
-      {
-        console.log(data)        
-      }
-
       {data.allMarkdownRemark.edges.map(post => ( 
           <div className="article-container"> 
             <Link className="achnor-tag"  
