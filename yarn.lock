@@ -3776,7 +3776,7 @@ gatsby-cli@^1.1.58:
     yargs "^11.1.0"
     yurnalist "^0.2.1"
 
-gatsby-link@^1.6.34, gatsby-link@^1.6.46:
+gatsby-link@^1.6.40, gatsby-link@^1.6.46:
   version "1.6.46"
   resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-1.6.46.tgz#1f9f6bd7a4d448a856c2035e54f2263d7933f4fd"
   integrity sha1-H59r16TUSKhWwgNeVPImPXkz9P0=

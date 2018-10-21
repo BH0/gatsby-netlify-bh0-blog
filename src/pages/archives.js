@@ -6,7 +6,7 @@ const ArchivesPage  = ({data}) => (
     <h2 className="sub-title">Archives</h2> {/* Archived Blog Posts */}
     {data.allMarkdownRemark.edges.map(post => ( 
       <div className="article-container"> 
-        <Link className="achnor-tag"  
+         <Link className="achnor-tag"  
           key={post.node.id} 
           to={post.node.frontmatter.path}>
             {post.node.frontmatter.title}
