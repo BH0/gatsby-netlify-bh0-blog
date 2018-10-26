@@ -23,7 +23,7 @@ export const postQuery = graphql`
             }
         }
     }
-` 
+`; 
 
 /* 
 import React from 'react';
