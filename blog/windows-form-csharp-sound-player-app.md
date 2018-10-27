@@ -1,5 +1,5 @@
 --- 
-path: "/blog/windows-form-c#-sound-player-app"
+path: "/blog/windows-form-csharp-sound-player-app"
 title: "Windows Form C# Sound Player App" 
 date: "27-04-2018" 
 --- 

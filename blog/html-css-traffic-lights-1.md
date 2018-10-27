@@ -1,5 +1,5 @@
 --- 
-path: "/blog/html-css-traffic-lights-#1"
+path: "/blog/html-css-traffic-lights-1"
 title: "HTML & CSS Traffic Lights #1" 
 date: "01-09-2018" 
 --- 
