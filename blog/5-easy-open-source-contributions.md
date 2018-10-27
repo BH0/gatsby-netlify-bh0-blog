@@ -1,7 +1,7 @@
 --- 
-path: /blog/dummy-post
-title: Dummy Post
-date: 06-10-2018 
+path: "/blog/5-easy-open-source-contributions"
+title: "5 Easy Open Source Contributions" 
+date: "06-10-2018" 
 --- 
 
 Contributing to open source is widely considered a good idea. It lets employers know you are passionate about what you do, and it is a great way to give back to the community. But getting started can be difficult unless you know how to implement a library, contributing to open source can be a struggle. I hope to help lessen the barrier to open source with this blog post. 
