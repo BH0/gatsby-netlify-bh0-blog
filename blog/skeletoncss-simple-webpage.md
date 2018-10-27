@@ -1,5 +1,5 @@
 ---
-path: skeletonscss-simple-webpage
+path: /blog/skeletonscss-simple-webpage
 date: '2018-10-27'
 title: SkeletonCSS Simple Webpage
 ---
