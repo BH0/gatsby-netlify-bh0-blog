@@ -12,6 +12,7 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-netlify-cms": "^1.0.0",
     "gatsby-source-filesystem": "^1.5.11",
-    "gatsby-transformer-remark": "^1.7.28"
+    "gatsby-transformer-remark": "^1.7.28",
+    "react-ga": "^2.5.6"
   }
 }
