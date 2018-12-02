@@ -4,7 +4,7 @@ import Link from 'gatsby-link'
 import ReactGA from 'react-ga';
 
 function initializeReactGA() {
-    ReactGA.initialize('UA-123791717-1');
+    ReactGA.initialize('UA-130260292-1');
     ReactGA.pageview('/homepage');
 }
 
