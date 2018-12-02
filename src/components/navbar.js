@@ -5,7 +5,8 @@ import Link from 'gatsby-link';
 const Navbar = () => 
     <div className="navigation center"> 
         <Link to="/">Recent</Link> 
-        <Link to="/archives/">Archives</Link>
+        {/* note ```to="/archives/" seems to cause an inconsistent bug involivnf "jsonName" */}
+        <Link to="/archives">Archives</Link>
         <Link to="/">Most viewed</Link> 
         <Link to="/">About</Link> 
     {/* <a>category</a> */} 

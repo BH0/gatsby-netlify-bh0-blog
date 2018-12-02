@@ -1,11 +1,8 @@
 import React from 'react'; 
 import Link from 'gatsby-link'; 
 
-import Navbar from '../components/navbar'; 
-
 const IndexPage = ({data}) => (
   <div className="mobile articles-container"> 
-      <Navbar /> 
       <h2 className="sub-title">Recent</h2> 
       {data.allMarkdownRemark.edges.map(post => ( 
           <div className="article-container"> 
