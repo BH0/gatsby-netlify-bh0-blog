@@ -4,6 +4,7 @@ import Link from 'gatsby-link';
 import Navbar from '../components/navbar'; 
 
 const IndexPage = ({data}) => (
+  <Navbar /> 
   <div className="mobile articles-container"> 
       <h2 className="sub-title">Recent</h2> 
       {data.allMarkdownRemark.edges.map(post => ( 
