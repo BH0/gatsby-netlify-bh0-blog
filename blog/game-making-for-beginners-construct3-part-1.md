@@ -1,5 +1,5 @@
 ---
-path: /blog/game-making-for-beginners-(construct3)
+path: /blog/game-making-for-beginners-construct3
 date: '2018-12-08'
 title: Game Making for Beginners (Construct3) - Part 1
 ---
