@@ -11,11 +11,16 @@ To be honest, I don't know if it is justifiable to attempt to teach music using 
 
 The reason this type of music was made was due to the limited space that the early comuters had. But, pixels and bits are cool, so it's not like these early video game developers/designers were limited in creativity. 
 
-# FL Studio 
+# FL Studio
+
 I love this digital audio workstation, and recently, I just discovered that it can be used to make chiptune e/8-bit music. The program requires you to pay if you wish to re-open your saved work, but that doesn't mean you cannot make your audio track without closing the program, then exporting your work as an audio file and saving that somewhere. Here is an awesome Youtube video by Busy Works Beats to help get you started: https://www.youtube.com/watch?v=86c4TMGCzQ8&list=PLGxiyRm2uEmr3dtD7BZyvvtiI2RyrGiwe&index=11  - 8Bit Music FULL TUTORIAL WALKTHROUGH | FL Studio 20 Note that when he does "make unique", unless you have purchased FL Studio, you will have to manually clone and then add your pattern. 
 
-# FamTracker 
-This is a lightweight tool [once you do enough clicking around it becomes simple] that I used to attempt to use alongside BFXR (website for sound effects) to make the music for my games. 
+There is also an FL Slaer preset called FX Atari 2600 Computer, and FL Space Invaders. 
 
-# Program Your Own 
-JavaScript libraries such as ToneJS and Scriblletune may allow you to make your music using code! 
+# FamTracker
+
+This is a lightweight tool \[once you do enough clicking around it becomes simple] that I used to attempt to use alongside BFXR (website for sound effects) to make the music for my games. 
+
+# Program Your Own
+
+JavaScript libraries such as ToneJS and Scriblletune may allow you to make your music using code!
