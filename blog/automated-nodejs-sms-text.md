@@ -1,5 +1,5 @@
 ---
-path: automated-nodejs-sms-text
+path: /blog/automated-nodejs-sms-text
 date: '2018-12-29'
 title: Automated NodeJS SMS Text
 ---
