@@ -1,7 +1,7 @@
 ---
 path: /blog/programming-where-to-find-help
 date: '2019-02-16'
-title: Programming WhereTo Get Help
+title: Programming Where To Get Help
 ---
 I have already written about asking for help - which may be worth reading. And if you are open to asking for help but not sure how, checkout this Youtube video by LiveOverflow: https://www.youtube.com/watch?v=53zkBvL4ZB4 - which will at least discuss how not to ask for help (which is really just about being respectful of other people), 
 
@@ -59,7 +59,8 @@ Meetups, checkout a local meetup such as Codebar, or one of the many others on M
 
 Software development is a career that is incredibly beneficial to know people in person - even if you do not need them immediately it doesn't hurt to determine who you can physically interact with who may know how to solve your  problem - or at least has a better way of approaching it than you. Ask around and determine friends of friends who are technology enthusiasts. If you are open to having coffee with developers on LinkedIn then this might also be a means of increasing your network. 
 
-
+# Don't Be Afraid of Paper 
+You know what they used before the internet:the library. I often visit my college library and [skim] read the books to kill time, and there have been various occaisions where it has paid off, especially for old topics. 
 
 \# Online Communities 
 
