@@ -1,5 +1,5 @@
 ---
-path: /blog/HTML-JS-Pathify-(automating-netlifyCMS-path-creation)
+path: /blog/html-js-pathifyautomating-netlifyCMS-path-creation
 date: '2019-03-09'
 title: HTML JS Pathify (Automating NetlifyCMS Path Creation
 ---
@@ -57,4 +57,4 @@ The remaining code will output the value of final in HTML and copy it to our cli
   document.querySelector("#final").innerText = final; 
 ```
 
-There are possibly better ways to do this, and I hope to share my improvement soon, but this code will get the job done for now. NetlifyCMS is open source, so if I really wanted to, I could fork or clone NetlifyCMS and implement this code directly into the CMS. And this code/app may be useful for other CMSs and static site generators and so on, not just NetlifyCMS. Full code: https://codepen.io/anon/pen/KEqxXo?editors=1011 - thanks for reading. 
+There are possibly better ways to do this, and I hope to share my improvements soon [one potential feature might be to strip out other characters], but this code will get the job done for now. NetlifyCMS is open source, so if I really wanted to, I could fork or clone NetlifyCMS and implement this code directly into the CMS. And this code/app may be useful for other CMSs and static site generators and so on, not just NetlifyCMS. Full code: https://codepen.io/anon/pen/KEqxXo?editors=1011 - thanks for reading. 
