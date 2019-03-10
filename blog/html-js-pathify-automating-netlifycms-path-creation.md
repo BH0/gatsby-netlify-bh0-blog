@@ -1,5 +1,5 @@
 ---
-path: /blog/html-js-pathifyautomating-netlifyCMS-path-creation
+path: /blog/html-js-pathify-automating-netlifycms-path-creation
 date: '2019-03-09'
 title: HTML JS Pathify (Automating NetlifyCMS Path Creation
 ---
