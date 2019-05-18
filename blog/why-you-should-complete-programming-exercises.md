@@ -1,5 +1,5 @@
 ---
-path: .blog/why-you-should-complete-programming-exercises
+path: /blog/why-you-should-complete-programming-exercises
 date: '2019-05-18'
 title: Why You Should Complete Programming Exercises
 ---
