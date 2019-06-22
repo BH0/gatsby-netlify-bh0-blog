@@ -8,7 +8,7 @@ Wirify is an awesome browser tool that allows you turn a webpage into a wirefram
  I believe Wirifiy works across many browsers but I use it within Chrome (for ease). Open up Chrome (duh), and navigate to settings (by clicking the 3 vertical dots in the top right corner). Scroll down and ensure “show bookmarks bar” is toggled (blue means “enabled”). 
 
 Next copy this the following text [javascript code] (from https://wirify.com ): 
-```js 
+```
 javascript:(function(){wf_bookmarklet={ver:'1.5',ka:86400000,to:7000};if(typeof%20wfInit=='undefined'){var%20s=document.body.appendChild(document.createElement('script')).src=(document.location.protocol=='https:'?'https:':'http:')+'//www.wirify.com/client/wirify.min.js?'+parseInt(new%20Date().getTime()/wf_bookmarklet.ka);window.setTimeout(function(){if(typeof%20wfInit=='undefined'){alert('Wirify%20is%20still%20processing%20or%20temporarily%20unavailable,%20please%20try%20again%20in%20a%20moment\n\nVisit%20%20twitter.com/wirify%20%20and%20%20www.wirify.com/blog%20%20for%20latest%20announcements');}},wf_bookmarklet.to);}else{wfInit();}})(); 
 ```
 
