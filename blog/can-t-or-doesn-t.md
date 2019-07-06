@@ -1,7 +1,7 @@
 ---
 path: /blog/cant-or-doesnt
 date: '2019-07-06'
-title: Can't or Doesn't
+title: Cant or Doesnt
 ---
 I am not sure as to what this blog post should be called, but essentially the goal is to remind you that just because someone does or did not do something, it does not mean that they cannot do that particular thing. 
 
