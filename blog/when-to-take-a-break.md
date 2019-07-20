@@ -19,9 +19,11 @@ I mentioned that sometimes we feel we need to "work harder", while hard work is 
 
 One reason I overwork myself is because my program is difficult to make sense of, and I worry that if I stop working I will not know what to do when I return. Thankfully documenting my code in someway such as comments has helped reduce this "return anxiety", and I make a note of the task that I previously done, as well as the task that I intend on completing when I return (some times the fresh eyes makes things easier). 
 
+Remember that taking a break whilst trying to fix a bug is not a sign of giving up. I have solved so many bugs simply from taking a break. 
+
 Another technique you could do is the pomodoro technique, that is to work for 25 minutes, and take a 5 minute break, repeat this for certain amount of times (such as 4). You do not need to follow this technique exactly, and instead should find out what works for you, you might even find that some days you want to do more pomdoro sessions, other days do not feel shameful in doing less. 
 
-Personally I feel it is important to "break correctly", for example, if your brain is sore from programming, then completing a Sudoku puzzle probably is not the best idea, and instead you should have a [healthy] snack or do some exercise (such as a walk) or both. 
+Personally I feel it is important to "break correctly", for example, if your brain is sore from programming, then completing a Sudoku puzzle probably is not the best idea, and instead you should have a [healthy] snack or do some exercise (such as a walk) or both, socialising or mediate might help too, so that when you return to your work you are able to perform better than you would had had you kept working too much. 
 
 The conclusion of this blog post is that you should not rely on "crunch" times, and instead be able to break your work to ensure you are not overworking yourself, meaning that you should have enough energy reserved for when events are happening as intended. Thanks for reading and I hope this helps increase your productivity as well as improve your overall quality of life. 
 
