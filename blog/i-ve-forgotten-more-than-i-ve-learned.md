@@ -10,3 +10,5 @@ Thankfully once you learn something once, it is a lot easier to learn again. So 
 For example, I pretty much got rejected because I forgot how to use CSS flex - as I was hoping the interview would be more focused on JS. 
 
 And if you are asked about something you have forgotten, but cannot remember if you had learned it before, then there is no shame in simply saying you don't know. Do not think you can get away with saying you've forgotten something you never actually knew because people might be able to determine this if they are teaching you it and it is as if you're memory is not being jogged. 
+
+The idea of this blog post is to inform you that there is so much involved in software development, that you are not expected to remember, let alone learn it all, so do not feel shameful in Googling. 
